@@ -435,6 +435,7 @@ class Tooltip extends Component {
     const commonConfig = {
       duration: animDuration,
       easing: show ? Easing.out(Easing.back()) : Easing.inOut(Easing.quad),
+      useNativeDriver: true,
     };
 
     Animated.parallel([
