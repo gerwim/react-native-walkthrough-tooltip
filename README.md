@@ -1,4 +1,8 @@
-# React Native Walkthrough Tooltip [![npm](https://img.shields.io/npm/v/react-native-walkthrough-tooltip.svg)](https://www.npmjs.com/package/react-native-walkthrough-tooltip) [![npm](https://img.shields.io/npm/dm/react-native-walkthrough-tooltip.svg)](https://www.npmjs.com/package/react-native-walkthrough-tooltip)
+| :warning: WARNING          |
+|:---------------------------|
+| This is a forked repository based on the 0.6.1 tag and is not under active development.      |
+
+# React Native Walkthrough Tooltip
 
 > Much credit belongs to [@jeanregisser](https://github.com/jeanregisser) and the [react-native-popover](https://github.com/jeanregisser/react-native-popover) library. Most of the animations and geometry computation belong to his library. Please check it out! It was an invaluable resource.
 
